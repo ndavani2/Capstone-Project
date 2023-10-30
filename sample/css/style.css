@@ -1,0 +1,10 @@
+/* styles.css */
+/* Add your custom CSS styles here */
+body {
+    background-color: #FF5F15;
+}
+
+.custom-size {
+    width: 30em; /* Adjust the width to your preferred size */
+    height: auto; /* Auto-adjust the height to maintain the aspect ratio */
+}
